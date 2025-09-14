@@ -1,0 +1,9 @@
+/* ultra-simple styles to mimic the example */
+body { font-family: Arial, sans-serif; margin: 16px; color: black; background: white; }
+h1 { font-size: 32px; margin-bottom: 10px; }
+h2 { font-size: 24px; margin-top: 24px; }
+h3 { font-size: 18px; margin-top: 18px; }
+a { color: #0000EE; } /* default link look */
+img { border: 1px solid #aaa; }
+table, th, td { border: 1px solid black; border-collapse: collapse; padding: 6px; }
+button { padding: 6px 10px; }
